@@ -1,0 +1,7 @@
+adh08-1b_seg19 - FEA
+
+adh19_1a_seg19 - Columnar
+
+adh19-1a_seg27 - ADH
+
+adh23_1a_seg76 - Normal
